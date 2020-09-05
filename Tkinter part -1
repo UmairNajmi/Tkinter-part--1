@@ -1,0 +1,12 @@
+# Tkinter is a GUI module use in python 
+# My all code is comment out 
+"""""""""
+
+from tkinter import *
+umair_root = Tk()
+
+#  GUI logic here
+
+umair_root.mainloop()
+
+"""""
